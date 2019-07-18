@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="<?php echo BASE; ?>/assets/css/estilo.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo BASE; ?>/assets/css/template.css">
 	<meta charset="utf-8">
 	<title>Meu template</title>
 </head>

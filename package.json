@@ -1,0 +1,14 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ValcineiJr/testeMVC.git",
+  "author": "Valcinei <hakjog@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap-sass": "^3.4.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1"
+  }
+}

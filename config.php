@@ -1,6 +1,6 @@
 <?php 
 	require 'environment.php';
-	define("BASE", "http://localhost/mvc/");
+	define("BASE", "http://localhost/teste/");
 
 	global $config;
 	$config = array();
